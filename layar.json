@@ -1,54 +1,57 @@
 {
-  "errorCode": 0, 
-  "errorString": "ok", 
+  "errorCode": 0,
+  "errorString": "ok",
   "hotspots": [
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.0673554, 
-          "lon": -96.73109849999997
+          "lat": 17.0673554,
+          "lon": -96.7310985
         }
-      }, 
-      "id": 1, 
+      },
+      "id": 1,
       "text": {
         "title": "This is a basic POI"
       }
-    }, 
+    },
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.0673554, 
-          "lon": -96.71709849999996
+          "lat": 17.0673554,
+          "lon": -96.71709849999999
         }
-      }, 
+      },
       "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
-      }, 
-      "id": 2, 
+        "url": "https://github.com/OsogobioAltamiranoMonserrat/layar/blob/master/484406_10151860530410165_1666986107_n.jpg"
+      },
+      "id": 2,
       "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "description": "Description line 1\nDescription line 2\nand Description line 3",
         "title": "This POI has a custom icon and description"
       }
-    }, 
+    },
     {
       "actions": [
         {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
+          "contentType": "text/html",
+          "label": "Visit our hotspots documentation!",
           "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
         }
-      ], 
+      ],
       "anchor": {
         "geolocation": {
-          "lat": 17.0603554, 
-          "lon": -96.72409849999997
+          "lat": 17.0603554,
+          "lon": -96.7240985
         }
-      }, 
-      "id": 3, 
+      },
+      "id": 3,
       "text": {
         "title": "This POI has an action"
       }
     }
-  ], 
-  "layer": ""
+  ],
+  "layer": "andadorturis94ux",
+  "morePages": false,
+  "nextPageKey": null,
+  "referenceImages": []
 }
